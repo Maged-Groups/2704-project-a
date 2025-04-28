@@ -1,4 +1,4 @@
-# Initiate a new reposotory (repo)
+# Initiate a new repository (repo)
 ```bash
 git init
 ```
